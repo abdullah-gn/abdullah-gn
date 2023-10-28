@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm abdullah fathi</h1>
 <h3 align="center">A passionate Fullstack developer with mixed desire to create efficient software career</h3>
 
-- 🔭 I’m currently working on **Freelancing projects**
+- 🔭 I’m currently working on Raya Information Technology As a software developer
 
 - 🌱 I’m currently learning **Machine learning,Angular**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **abdallafathy4@gmail.com**
 
-- 📄 Know about my experiences.(Resume) [https://drive.google.com/file/d/1mKbroxsGXbsDWbjw-7PcvdysT6-558eQ/view?usp=sharing](https://drive.google.com/file/d/1mKbroxsGXbsDWbjw-7PcvdysT6-558eQ/view?usp=sharing)
+- 📄 Know about my experiences.(Resume) [t.ly/EwmxU)
 
 - ⚡ Fun fact **I think we all want the same thing at then end, Which is ?**
 
