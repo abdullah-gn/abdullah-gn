@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm abdullah fathi</h1>
 <h3 align="center">A passionate Fullstack developer with mixed desire to create efficient software career</h3>
 
-- 🔭 I’m currently working on Raya Information Technology As a software developer
+- 🔭 I’m currently working on Atos As a Senior .Net full stack developer
 
 - 🌱 I’m currently learning **Machine learning,Angular**
 
