@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **abdallafathy4@gmail.com**
 
-- 📄 Know about my experiences.(Resume) [(https://drive.google.com/file/d/1DVeWcoJf1fzciB3-NnWaqG8h5xxJ1IlV/view?usp=sharing)]
+- 📄 Know about my experiences.(Resume) [(https://shorturl.at/0K720)]
 
 - ⚡ Fun fact **I think we all want the same thing at then end, Which is ?**
 
